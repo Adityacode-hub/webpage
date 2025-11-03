@@ -1,0 +1,15 @@
+current directory: /workspaces/webpage/fortran-lang.org/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/local/rvm/rubies/ruby-3.1.4/bin/ruby -I /usr/local/rvm/rubies/ruby-3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /workspaces/webpage/fortran-lang.org/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251103-34011-qpimen sitelibdir\=./.gem.20251103-34011-qpimen clean
+
+current directory: /workspaces/webpage/fortran-lang.org/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251103-34011-qpimen sitelibdir\=./.gem.20251103-34011-qpimen
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /workspaces/webpage/fortran-lang.org/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251103-34011-qpimen sitelibdir\=./.gem.20251103-34011-qpimen install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20251103-34011-qpimen/racc
